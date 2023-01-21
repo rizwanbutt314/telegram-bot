@@ -1,4 +1,4 @@
-![](https://github.com/rizwanbutt314/telegram-bot/rbtalks.gif)
+![](https://github.com/rizwanbutt314/telegram-bot/blob/master/rbtalks.gif)
 
 ### Description:
 This telegram chat bot contains the usage of GUI & commands based actions.
