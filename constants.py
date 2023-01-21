@@ -1,1 +1,1 @@
-BOT_TOKEN = "5912639072:AAFpc1vTdCC2qwmhlXVrbFnEf0tPHSv764I"
+BOT_TOKEN = "test-bot-token"

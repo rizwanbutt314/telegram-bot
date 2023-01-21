@@ -2,8 +2,8 @@
 FAQ_HEADER_MESSAGE = """
 Here is a list of our frequently asked questions. Please read through each question as they contain detailed information about our packages, trading signals and how to activate your plan.
  
-For more information, please visit our website: https://projectxcapital.com
-Contact us via email: contact@projectxsignals.com
+For more information, please visit our website: https://github.com/rizwanbutt314
+Contact us via email: rizwanbutt314@gmail.com
 
 """
 
@@ -69,7 +69,7 @@ Webhook APIs are generally considered to be a more advanced feature for sophisti
  
 For information on how to set up and integrate our webhooks with your system, please contact us via email.
  
-An example of a webhook - https://projectxsignals.com/sample-signal-payload.txt
+An example of a webhook - https://github.com/rizwanbutt314
  
 
 """
