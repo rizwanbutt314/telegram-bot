@@ -1,0 +1,7 @@
+# Files
+*.pyc
+
+# Directories
+.handler-saves/
+venv/
+__pycache__/
