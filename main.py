@@ -23,13 +23,6 @@ def register_commands():
     - start/ (folder name as command)
         - main.py:
             Required - This file should have function executor(message, bot)
-        - handlers.py:
-            Optional - If this file is present then it should have functions 
-            query_handler(call, bot) and query_handler_filter(call)
-        - menu.py:
-            Optional - This contains the logic to generate the menu buttons for a command
-        - messages.py:
-            Optional - This contains the messages constants for a specific command
     """
     commands_fn_mapping = get_commands_function_mapping()
 
